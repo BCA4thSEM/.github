@@ -2,7 +2,7 @@
 
 # ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=F75C7E&width=435&lines=Hello!+👋;Welcome+to+%5BBCA4thSEM%5D!;We+Build+Awesome+Projects!+🚀)
 
-![Organization Banner]((https://www.mangaldaicollege.org/img/abc.gif))  
+
 
 ## 🔥 About Us  
 [BCA4thSEM] is dedicated to **[Open Source, AI, Web Development]**. Our goal is to create innovative, high-quality, and community-driven software solutions.  
